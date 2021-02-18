@@ -1,0 +1,13 @@
+Pv-QvRv(S>(T=B))
+-P>Q
+-(TvR)>-(Q^(-P=R))
+R=S
+(R^D)vS
+-T
+Qv-Rv-S
+Q^-R^-S
+-S>-(Rv-(T=P))
+-(TvR)=-(Q^(-P>R))
+-(QvR)>((S=R)vP)
+(T=R)^(SvR)^(P>T)^(QvR)
+goal: P^S

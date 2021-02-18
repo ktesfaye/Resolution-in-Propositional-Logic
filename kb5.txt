@@ -1,0 +1,27 @@
+-PvB
+-BvRvP
+-RvB
+-B
+Pv-QvRvSvT
+-P>Q
+R=S
+(R^D)vS
+-T
+Qv-Rv-S
+-S>-(Rv-(T=P))
+-(TvR)=-(Q^(-P>R))
+-(QvR)>((S=R)vP)
+T^(SvR)^P^(QvR)
+-QvWv-E
+-E
+Wv-RvTvY
+Tv-Y
+-Tv-UvQ
+U
+RvUv-Q
+RvS
+Qv-S
+-Rv-PvS
+P
+-Q
+goal: P^S
