@@ -13,29 +13,4 @@ properly before adding it to the knowledge base.
 Your program should use the resolution inference algorithm to determine if the goal can be
 inferred by finding a proof by contradiction. Your program should output whether or not the goal
 can be inferred from the knowledge base. You may print additional information as you see fit, to
-analyze the running of your algorithm.
-
-The KB has one sentence per line. The last line may optionally start with "goal: " and
-then be followed by the goal sentence.
-● Each logical operator consists of a single character:
-○ not: -
-○ and: ^
-○ or: v
-○ implication: >
-○ iff: =
-● The parser assumes no precedence of operators, so you need to wrap EVERY compound
-sentence (composed of more than one logical operator) in parentheses. The only
-exceptions to this are:
-○ Negation, which should work without parentheses.
-○ Chained conjunctions (ands) or disjunctions (ors).
-● Here are examples of good and bad inputs:
-○ yes: Av-Bv-CvD
-○ yes: -A^B^-C^-D
-○ no: A=-B=C
-○ no: A>B>D
-○ no: Av(B^C)vD (though this might work in practice)
-○ no: --A (though this might work in practice)
-○ no: A^B=C
-■ yes: (A^B)=C or A^(B=C)
-○ no: C>DvE
-■ yes: C>(DvE) or (C>D)vE
+analyze the running of your algorithm
